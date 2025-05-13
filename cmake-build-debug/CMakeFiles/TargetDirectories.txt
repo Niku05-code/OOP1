@@ -1,0 +1,3 @@
+/Users/sergiuniculcea/Documents/AN2Sem1/Programare2/Lab3/cmake-build-debug/CMakeFiles/P2.dir
+/Users/sergiuniculcea/Documents/AN2Sem1/Programare2/Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergiuniculcea/Documents/AN2Sem1/Programare2/Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
